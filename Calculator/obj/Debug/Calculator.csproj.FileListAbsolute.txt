@@ -1,0 +1,10 @@
+F:\dev\project\c#\codingOn\winFormCalculator\Calculator\bin\Debug\Calculator.exe.config
+F:\dev\project\c#\codingOn\winFormCalculator\Calculator\bin\Debug\Calculator.exe
+F:\dev\project\c#\codingOn\winFormCalculator\Calculator\bin\Debug\Calculator.pdb
+F:\dev\project\c#\codingOn\winFormCalculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+F:\dev\project\c#\codingOn\winFormCalculator\Calculator\obj\Debug\calculator.CalculatorForm.resources
+F:\dev\project\c#\codingOn\winFormCalculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\dev\project\c#\codingOn\winFormCalculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+F:\dev\project\c#\codingOn\winFormCalculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\dev\project\c#\codingOn\winFormCalculator\Calculator\obj\Debug\Calculator.exe
+F:\dev\project\c#\codingOn\winFormCalculator\Calculator\obj\Debug\Calculator.pdb
